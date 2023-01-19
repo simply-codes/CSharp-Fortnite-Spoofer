@@ -66,9 +66,10 @@ This is a public src, So use it at your own risk. Drivers will probably be detec
 --- 
 
   <p align="center">
- <iframe src="https://discord.com/widget?id=1000909897875079268&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+    <a href="https://discord.gg/huhn9rnrpg">
+        <img title="Simply's Discord Server" alt="Simply Code" src="https://discord.com/api/guilds/1000909897875079268/style=banner2"/>
     </a>
-</p> 
+</p>
 
 ## 💬 ・[Discord](https://discord.gg/huhn9rnrpg) 
 
