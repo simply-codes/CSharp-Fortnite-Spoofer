@@ -61,13 +61,12 @@ This is a public src, So use it at your own risk. Drivers will probably be detec
 
 ---
 
-[image.png](https://cdn.discordapp.com/attachments/1046596934493814884/1065681926687555595/image.png)
+ <img src="https://cdn.discordapp.com/attachments/1046596934493814884/1065681926687555595/image.png"/>
 
 --- 
 
   <p align="center">
-    <a href="https://discord.gg/MBTkVcJefp">
-        <img title="Simply's Discord" alt="Simply Code" src="https://discord.com/api/guilds/1000909897875079268/widget.json"/>
+ <iframe src="https://discord.com/widget?id=1000909897875079268&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
     </a>
 </p> 
 
